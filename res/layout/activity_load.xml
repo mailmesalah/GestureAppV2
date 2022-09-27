@@ -1,0 +1,18 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/load_image_activity"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Load Image Activity" />
+
+    <Button
+        android:id="@+id/load_keyboard_activity"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Load Keyboard Activity" />
+    
+</LinearLayout>
